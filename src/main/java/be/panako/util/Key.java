@@ -113,7 +113,7 @@ public enum Key{
 	/**
 	 * The strategy (algorithm) to use, OLAF|PANAKO|PCH.
 	 */
-	STRATEGY("OLAF"),
+	STRATEGY("PANAKO"),
 
 	/**
 	 * Maximum number of items returned for a query
